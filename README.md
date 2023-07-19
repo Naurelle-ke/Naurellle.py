@@ -1,5 +1,4 @@
 # Naurellle.py
-#Guessing game
 import random
 
 def guess_number():
